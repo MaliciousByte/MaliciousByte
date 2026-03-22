@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliciousbyte&label=Profile%20views&color=0e75b6&style=flat" alt="maliciousbyte" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maliciousbyte" alt="maliciousbyte" /></a> </p>
-
 - 🔭 I’m currently working on [Quin](https://github.com/MaliciousByte/Quin)
 
 - ⚡ Fun fact **I used to bypass parental lock on my Android phone when i was kid.**
